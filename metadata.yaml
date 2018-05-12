@@ -1,0 +1,29 @@
+_repo: Dishes--amp--Beverages-of-the-Old-South_28491
+_version: 0.1.0
+alternative_title: Dishes and Beverages of the Old South
+covers:
+- cover_type: archival
+  image_path: 28491-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McCulloch-Williams, Martha
+    gutenberg_agent_id: '33363'
+    url: http://www.gutenberg.org/2009/agents/33363
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28491'
+  lccn: '13025763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Social life and customs -- 1865-'
+- !lcsh 'Cooking, American -- Southern style'
+- !lcsh 'Beverages -- Southern States'
+- !lcc 'TX'
+title: Dishes & Beverages of the Old South
+url: http://www.gutenberg.org/ebooks/28491
